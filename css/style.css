@@ -1,0 +1,51 @@
+
+body {
+  padding-top: 80px;
+  background-color: #EFF6FF;
+}
+
+.custom-navbar {
+	background-color: white;
+}
+
+.nav-item-custom {
+	font: Medium 18px/24px Roboto;
+	letter-spacing: 0;
+	color: #515151 !important;
+	opacity: 1;
+}
+
+.nav-item-register {
+	background: #1F75E5 0% 0% no-repeat padding-box;
+	border: 5px solid #ECECEC;
+	border-radius: 15px;
+	opacity: 1;
+}
+
+.nav-content-register {
+	text-align: left;
+	font: Medium 18px Roboto;
+	letter-spacing: 0;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	opacity: 1;
+}
+
+.nav-logo {
+	text-align: left;
+	letter-spacing: 0;
+	color: #000000CF;
+	opacity: 1;
+}
+
+.user-card {
+	border-radius: 15px;
+}
+
+.user-picture {
+	border-radius: 25px;
+}
+
+.btn-add-request {
+	border-radius: 10px;
+}
